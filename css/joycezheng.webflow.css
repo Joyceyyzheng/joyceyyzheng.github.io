@@ -1344,8 +1344,9 @@ figcaption {
 }
 
 .heading-2 {
+  display: inline-block;
   font-size: 30px;
-  font-weight: 100;
+  font-weight: 300;
   text-decoration: none;
 }
 
@@ -1623,6 +1624,7 @@ figcaption {
 .columns-3 {
   margin-right: 20px;
   margin-left: 20px;
+  padding-top: 100px;
 }
 
 .feature-section {
@@ -1859,6 +1861,41 @@ figcaption {
 
 .container-4 {
   margin-bottom: 100px;
+}
+
+.paragraph-13 {
+  padding-top: 20px;
+  color: rgba(31, 26, 26, 0.7);
+  font-size: 14px;
+}
+
+.columns-7 {
+  margin-bottom: 180px;
+}
+
+.columns-8 {
+  margin-bottom: 180px;
+}
+
+.columns-9 {
+  margin-bottom: 180px;
+}
+
+.columns-10 {
+  margin-bottom: 180px;
+}
+
+.columns-11 {
+  margin-bottom: 180px;
+}
+
+.grid {
+  margin-bottom: 300px;
+}
+
+.heading-6 {
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 @media screen and (max-width: 991px) {
